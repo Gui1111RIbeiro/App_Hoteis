@@ -21,7 +21,7 @@ APP Hoteis
 
 # Project Description
 
-This project was developed as part of my study on the flutter framework. I was curious how to develop a mobile app, so I started to study and develop many apps to improve. [Describe]
+This project was developed as part of my study on the flutter framework. I was curious how to develop a mobile app, so I started to study and develop many apps to improve. This project was very short and I didn't have a lot of work, I just used my previous knowledge to build this simple app because my focus was working with the google maps api. I was able to save the data, I asked the user for permission to access the location of the device in addition to also manipulating the API to tag some nearby locations
 
 # 📁 Access the Project
 
@@ -48,8 +48,10 @@ This project was developed as part of my study on the flutter framework. I was c
 # 🔨 Project Features
 
 - `Feature 1`: icon image
-- `Feature 2`: split screen 
+- `Feature 2`: split screen
 - `Feature 3`: compatible for both devices IOS and Android
+- `Feature 4`: uses google maps api to show current location
+- `Feature 5`: can mark a location on the map and save it
 
 # ▶ Run the Project
 
@@ -68,4 +70,4 @@ flutter run
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+samples, guidance on mobile development, and a full API reference
