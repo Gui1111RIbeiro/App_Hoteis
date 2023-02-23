@@ -21,7 +21,7 @@ APP Hoteis
 
 # Project Description
 
-This project was developed as part of my study on the flutter framework. I was curious how to develop a mobile app, so I started to study and develop many apps to improve. This project was very short and I didn't have a lot of work, I just used my previous knowledge to build this simple app because my focus was working with the google maps api. I was able to save the data, I asked the user for permission to access the location of the device in addition to also manipulating the API to tag some nearby locations
+This project was developed as part of my study on the flutter framework. I was curious how to develop a mobile app, so I started to study and develop many apps to improve. This project was very short and I didn't have a lot of work, I just used my previous knowledge to build this simple app because my focus was working with the google maps api. I was able to save the data, I asked the user for permission to access the location of the device in addition to also take pictures using the cell phone camera.
 
 # 📁 Access the Project
 
@@ -39,11 +39,15 @@ This project was developed as part of my study on the flutter framework. I was c
  
 - ## Install and configure AndroidStudio in your machine
 
- **https://developer.android.com/studio**
+**https://developer.android.com/studio**
  
 - ## Create a google maps account to use the API
 
- **https://mapsplatform.google.com/**
+**https://mapsplatform.google.com/**
+
+- ## Create a firebase account
+
+**https://firebase.google.com/?hl=pt**
 
 # 🔨 Project Features
 
@@ -52,6 +56,7 @@ This project was developed as part of my study on the flutter framework. I was c
 - `Feature 3`: compatible for both devices IOS and Android
 - `Feature 4`: uses google maps api to show current location
 - `Feature 5`: can mark a location on the map and save it
+- `Feature 6`: take pictures using the cell phone camera
 
 # ▶ Run the Project
 
