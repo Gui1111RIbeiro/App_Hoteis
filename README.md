@@ -1,78 +1,78 @@
 APP Hoteis
 ==========
-## A Flutter Project
+## Um Projeto Flutter
 
 ![](https://icon-library.com/images/hotel-app-icon/hotel-app-icon-19.jpg)
 
-# Index
+## Índice
 
-* [Index](#index)
-* [Project Status](#project-status)
-* [Project Description](#project-description)
-* [Access the Project](#-access-the-project)
-* [Requirements](#-requirements)
-* [Project Features](#-project-features)
-* [Run the Project](#-run-the-project)
-* [Authors](#-authors)
+* [Índice](#índice)
+* [Status do Projeto](#status-do-projeto)
+* [Descrição do Projeto](#descrição-do-projeto)
+* [Acesso ao Projeto](#-acesso-ao-projeto)
+* [Requisitos](#-requisitos)
+* [Funcionalidades do Projeto](#-funcionalidades-do-projeto)
+* [Executar o Projeto](#-executar-o-projeto)
+* [Autores](#-autores)
 
-# Project Status
+## Status do Projeto
 
 ![](https://img.shields.io/badge/state-success-brightgreen/github/deployments/:user/:repo/:environment)
 
-# Project Description
+## Descrição do Projeto
 
-This project was developed as part of my study on the flutter framework. I was curious how to develop a mobile app, so I started to study and develop many apps to improve. This project was very short and I didn't have a lot of work, I just used my previous knowledge to build this simple app because my focus was working with the google maps api. I was able to save the data, I asked the user for permission to access the location of the device in addition to also take pictures using the cell phone camera.
+Este projeto foi desenvolvido como parte do meu estudo sobre o framework Flutter. Eu estava curioso sobre como desenvolver um aplicativo móvel, então comecei a estudar e desenvolver muitos aplicativos para melhorar. Este projeto foi muito curto e não tive muito trabalho, apenas usei meus conhecimentos anteriores para construir este aplicativo simples porque meu foco era trabalhar com a API do Google Maps. Eu consegui salvar os dados, pedi permissão ao usuário para acessar a localização do dispositivo, além de também tirar fotos usando a câmera do celular.
 
-# 📁 Access the Project
+## 📁 Acesso ao Projeto
 
-**Is found in Github: "https://github.com/GuiQueirozRibeiro/App_Hoteis"**
+**Está disponível no Github: "https://github.com/GuiQueirozRibeiro/App_Hoteis"**
 
-# 📝 Requirements
+## 📝 Requisitos
 
-- ## Install the DartSDK in your machine
+- ## Instale o DartSDK em sua máquina
 
 **https://dart.dev/get-dart**
 
-- ## Install the FlutterSDK in your machine
+- ## Instale o FlutterSDK em sua máquina
 
 **https://docs.flutter.dev/get-started/install**
  
-- ## Install and configure AndroidStudio in your machine
+- ## Instale e configure o AndroidStudio em sua máquina
 
 **https://developer.android.com/studio**
  
-- ## Create a google maps account to use the API
+- ## Crie uma conta no Google Maps para usar a API
 
 **https://mapsplatform.google.com/**
 
-- ## Create a firebase account
+- ## Crie uma conta no Firebase
 
 **https://firebase.google.com/?hl=pt**
 
-# 🔨 Project Features
+## 🔨 Funcionalidades do Projeto
 
-- `Feature 1`: icon image
-- `Feature 2`: split screen
-- `Feature 3`: compatible for both devices IOS and Android
-- `Feature 4`: uses google maps api to show current location
-- `Feature 5`: can mark a location on the map and save it
-- `Feature 6`: take pictures using the cell phone camera
+- `Funcionalidade 1`: imagem do ícone
+- `Funcionalidade 2`: tela dividida
+- `Funcionalidade 3`: compatível com ambos dispositivos IOS e Android
+- `Funcionalidade 4`: utiliza a API do Google Maps para mostrar a localização atual
+- `Funcionalidade 5`: pode marcar uma localização no mapa e salvá-la
+- `Funcionalidade 6`: tirar fotos usando a câmera do celular
 
-# ▶ Run the Project
+## ▶ Executar o Projeto
 
-- `To execute the programm, use:`
+- `Para executar o programa, use:`
 
 ```console
 flutter run
 ```
 
-# 👨‍💻 Authors
+# 👨‍💻 Autores
 
-| [<img src="https://avatars.githubusercontent.com/u/70274921?s=400&u=c1688d6fcd13223bfe1093c6d16b3b6b646545fe&v=4" width=115><br><sub>Guilherme Queiroz Ribeiro</sub>](https://github.com/Gui1111RIbeiro)
+| [<img src="https://avatars.githubusercontent.com/u/70274921?s=400&u=c1688d6fcd13223bfe1093c6d16b3b6b646545fe&v=4" width=115><br><sub>Guilherme Queiroz Ribeiro</sub>](https://github.com/GuiQueirozRibeiro)
 | :---: |
 
-### End
+### Fim
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference
+Para obter ajuda para começar a desenvolver com o Flutter, consulte a
+[documentação online](https://docs.flutter.dev/), que oferece tutoriais,
+exemplos, orientações sobre desenvolvimento móvel e uma referência completa da API.
