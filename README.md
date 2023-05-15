@@ -52,7 +52,7 @@ This project was developed as part of my study on the flutter framework. I was c
 # 🔨 Project Features
 
 - `Feature 1`: icon image
-- `Feature 2`: split screen
+- `Feature 2`: splash screen
 - `Feature 3`: compatible for both devices IOS and Android
 - `Feature 4`: uses google maps api to show current location
 - `Feature 5`: can mark a location on the map and save it
