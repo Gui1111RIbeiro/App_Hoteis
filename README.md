@@ -56,7 +56,7 @@ Este projeto foi desenvolvido como parte do meu estudo sobre o framework Flutter
 - `Funcionalidade 3`: compatível com ambos dispositivos IOS e Android
 - `Funcionalidade 4`: utiliza a API do Google Maps para mostrar a localização atual
 - `Funcionalidade 5`: pode marcar uma localização no mapa e salvá-la
-- `Funcionalidade 6`: tirar fotos usando a câmera do celular
+- `Funcionalidade 6`: tira fotos usando a câmera do celular
 
 ## ▶ Executar o Projeto
 
