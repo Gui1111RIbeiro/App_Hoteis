@@ -2,7 +2,9 @@ APP Hoteis
 ==========
 ## Um Projeto Flutter
 
-![](https://icon-library.com/images/hotel-app-icon/hotel-app-icon-19.jpg)
+<p float="middle">
+  <img src="assets/icons/icon.png"/>
+</p>
 
 ## Índice
 
