@@ -55,6 +55,7 @@ class _PlaceFormScreenState extends State<PlaceFormScreen> {
     return Scaffold(
       appBar: AppBar(
         title: const Text('Novo Lugar'),
+        centerTitle: true,
       ),
       body: Column(
         crossAxisAlignment: CrossAxisAlignment.stretch,
