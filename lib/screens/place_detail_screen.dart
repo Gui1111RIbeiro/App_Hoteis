@@ -12,6 +12,7 @@ class PlaceDetailScreen extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: Text(place.title),
+        centerTitle: true,
       ),
       body: Column(
         children: [

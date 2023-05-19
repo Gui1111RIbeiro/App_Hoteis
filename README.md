@@ -2,6 +2,9 @@ APP Hoteis
 ==========
 ## Um Projeto Flutter
 
+19,95 x 22.5
+
+
 <p float="middle">
   <img src="assets/icons/icon.png"/>
 </p>

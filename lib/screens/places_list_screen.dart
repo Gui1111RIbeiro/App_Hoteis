@@ -12,6 +12,7 @@ class PlacesListScreen extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: const Text('Meus Lugares'),
+        centerTitle: true,
         actions: [
           IconButton(
             icon: const Icon(Icons.add),
